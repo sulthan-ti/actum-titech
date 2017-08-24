@@ -7,11 +7,11 @@ This is a node package for actum payment processing. Developer can use this pack
 
 You can install this module using npm:
 
-<b>npm install actum-titech</b>
+        <b>npm install actum-titech</b>
 
 This will install the given package into your project. Then require this package to your project.
 
-<b>var actum=require("actum-titech");</b>
+        <b>var actum=require("actum-titech");</b>
 
 1) <b>Credit issuing</b>
 
